@@ -1,2 +1,4 @@
-# niuka
-niuka soper aplication
+{
+  "نام": "نام",
+  "علی": "دیار"
+}
